@@ -1,0 +1,1 @@
+package br.com.exercicios.spring.copa_2026;
